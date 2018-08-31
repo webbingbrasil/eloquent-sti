@@ -5,7 +5,7 @@ Eloquent STI brings a Single Table Inheritance capabilities to Eloquent.
 ## Installation
 
 ```bash
-composer require "webbingbrasil/eloquent-sti=0.1.0"
+composer require "webbingbrasil/eloquent-sti=1.0.0"
 ```
 
 ## Usage

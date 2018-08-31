@@ -1,5 +1,18 @@
 <?php
 /**
+ *  Copyright (c) 2018 Webbing Brasil (http://www.webbingbrasil.com.br)
+ *  All Rights Reserved
+ *
+ *  This file is part of the calculadora-triunfo project.
+ *
+ *  @project calculadora-triunfo
+ *  @file CanBeInherited.php
+ *  @author Danilo Andrade <danilo@webbingbrasil.com.br>
+ *  @date 10/08/18 at 18:13
+ *  @copyright  Copyright (c) 2018 Webbing Brasil (http://www.webbingbrasil.com.br)
+ */
+
+/**
  * Created by PhpStorm.
  * User: Danilo
  * Date: 09/08/2018
